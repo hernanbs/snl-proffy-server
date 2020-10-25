@@ -22,6 +22,17 @@
 	yarn start
 ```
 
+### :hammer_and_wrench: Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+
+* Node.js
+* Knex.js
+* Typescript
+* SQLite
+* Express
+* Cors
+* Git 
+
 ### :closed_book: HTTP Endpoints
 
 |    | Verbos HTTP | URI                                                                          |
